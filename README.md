@@ -1,0 +1,2 @@
+# industrix
+Industrix WordPress Theme
