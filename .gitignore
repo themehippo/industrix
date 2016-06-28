@@ -39,4 +39,4 @@ wp-content/*.*
 wp-content/plugins/*
 wp-content/themes/*.*
 wp-content/themes/twenty*
-wp-content/themes/*/css-compiled/*
+# wp-content/themes/*/css-compiled/*

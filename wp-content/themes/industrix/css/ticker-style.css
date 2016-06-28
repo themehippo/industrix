@@ -1,0 +1,219 @@
+/* Ticker Styling */
+.ticker-wrapper {
+    position : relative;
+    }
+
+.ticker-wrapper.has-js {
+    padding : 0px 20px;
+    }
+
+.ticker {
+    width    : 100%;
+    position : relative;
+    padding  : 10px 0px;
+    overflow : hidden;
+    }
+
+.ticker-title {
+    padding-top    : 9px;
+    text-transform : uppercase;
+    background     : #333333;
+    color          : #FFFFFF;
+    padding        : 2px 5px;
+    font-size      : 12px;
+    margin-right   : 10px;
+    }
+
+.ticker-content {
+    margin      : 0px;
+    padding     : 3px;
+    position    : absolute;
+    overflow    : hidden;
+    white-space : nowrap;
+    line-height : 1.2em;
+    }
+
+.ticker-content:focus {
+
+    }
+
+.ticker-content a {
+    text-decoration    : none;
+    color              : #222222;
+    font-size          : 14px;
+    -webkit-transition : all 400ms;
+    }
+
+.ticker-content a:hover {
+    text-decoration : none;
+    color           : #BF2718;
+    }
+
+.ticker-swipe {
+    padding-top      : 5px;
+    position         : absolute;
+    top              : 10px;
+    display          : block;
+    width            : 800px;
+    background-color : #FFFFFF;
+    }
+
+.ticker-swipe span {
+    margin-left   : 1px;
+    border-bottom : 1px solid #1F527B;
+    height        : 12px;
+    width         : 7px;
+    display       : block;
+    }
+
+.ticker-controls {
+    position        : absolute;
+    right           : 20px;
+    top             : 0;
+    padding         : 8px 0px 0px 0px;
+    list-style-type : none;
+    }
+
+.ticker-controls li {
+    padding  : 0px;
+    float    : left;
+    cursor   : pointer;
+    height   : 24px;
+    width    : 24px;
+    display  : block;
+    overflow : hidden;
+    }
+
+.ticker-controls li:hover {
+    background : #DF2E1B;
+    color      : #FFFFFF;
+    }
+
+.jnt-play-pause {
+
+    }
+
+.ticker-controls li.jnt-play-pause {
+    position : relative;
+    }
+
+.ticker-controls li.jnt-play-pause.paused {
+    position : relative;
+    }
+
+.ticker-controls li.jnt-play-pause:before {
+    position           : absolute;
+    content            : "\f04c";
+    font-family        : fontawesome;
+    left               : 0;
+    top                : 6px;
+    width              : 24px;
+    height             : 24px;
+    text-align         : center;
+    font-size          : 10px;
+    -webkit-transition : all 0.5s;
+    -moz-transition    : all 0.5s;
+    -ms-transition     : all 0.5s;
+    -o-transition      : all 0.5s;
+    transition         : all 0.5s;
+    }
+
+.ticker-controls li.jnt-play-pause.paused:before {
+    position           : absolute;
+    content            : "\f04b";
+    font-family        : fontawesome;
+    left               : 0;
+    top                : 6px;
+    width              : 24px;
+    height             : 24px;
+    text-align         : center;
+    -webkit-transition : all 0.5s;
+    -moz-transition    : all 0.5s;
+    -ms-transition     : all 0.5s;
+    -o-transition      : all 0.5s;
+    transition         : all 0.5s;
+    }
+
+.ticker-controls li.jnt-prev:before {
+    position           : absolute;
+    content            : "\f104";
+    left               : 0;
+    top                : 3px;
+    width              : 24px;
+    height             : 24px;
+    text-align         : center;
+    overflow           : hidden;
+    font-family        : fontawesome;
+    -webkit-transition : all 0.5s;
+    -moz-transition    : all 0.5s;
+    -ms-transition     : all 0.5s;
+    -o-transition      : all 0.5s;
+    transition         : all 0.5s;
+    }
+
+.ticker-controls li.jnt-next:after {
+    position           : absolute;
+    content            : "\f105";
+    right              : 0;
+    top                : 3px;
+    width              : 24px;
+    height             : 24px;
+    text-align         : center;
+    overflow           : hidden;
+    font-family        : fontawesome;
+    -webkit-transition : all 0.5s;
+    -moz-transition    : all 0.5s;
+    -ms-transition     : all 0.5s;
+    -o-transition      : all 0.5s;
+    transition         : all 0.5s;
+    }
+
+.ticker-controls li.jnt-next:hover:after,
+.ticker-controls li.jnt-prev:hover:before,
+.ticker-controls li.jnt-play-pause.paused:hover:before,
+.ticker-controls li.jnt-play-pause:hover:before {
+    -webkit-animation : toRightFromLeft 0.3s forwards;
+    -moz-animation    : toRightFromLeft 0.3s forwards;
+    animation         : toRightFromLeft 0.3s forwards;
+    }
+
+.ticker-controls li.jnt-prev {
+    position : relative;
+    }
+
+.ticker-controls li.jnt-next {
+    position : relative;
+    }
+
+.js-hidden {
+    display : none;
+    }
+
+.no-js-news {
+    padding : 10px 0px 0px 45px;
+    color   : #F8F0DB;
+    }
+
+.left .ticker-swipe {
+    /*left: 80px;*/
+    }
+
+.left .ticker-controls, .left .ticker-content, .left .ticker-title, .left .ticker {
+    float : left;
+    }
+
+.left .ticker-controls {
+    padding-left : 6px;
+    }
+
+.right .ticker-swipe {
+    /*right: 80px;*/
+    }
+
+.right .ticker-controls, .right .ticker-content, .right .ticker-title, .right .ticker {
+    float : right;
+    }
+
+.right .ticker-controls {
+    padding-right : 6px;
+    }

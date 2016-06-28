@@ -1,0 +1,2298 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Industrix\n"
+"POT-Creation-Date: 2016-06-25 17:41+0600\n"
+"PO-Revision-Date: 2016-06-25 17:40+0600\n"
+"Last-Translator: ThemeHippo <themehippo@gmail.com>\n"
+"Language-Team: ThemeHippo <themehippo@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:7
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:9
+msgid "Whoops! Whatever you are looking for cannot be found."
+msgstr ""
+
+#: 404.php:12
+msgid "HOME PAGE"
+msgstr ""
+
+#: author-bio.php:11
+msgid "About"
+msgstr ""
+
+#: comments.php:12
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:25
+#, php-format
+msgid ""
+"Copyright &copy; %1$s %2$s. All Rights Reserved. Designed by <a href=\"%3$s"
+"\" title=\"%4$s\">%5$s</a>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: footer.php:27
+msgid "Industrix"
+msgstr ""
+
+#: footer.php:32
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:32
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:51
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:148
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:198
+msgid "Blog Sidebar Area"
+msgstr ""
+
+#: functions.php:200
+msgid "Appears in the blog sidebar."
+msgstr ""
+
+#: functions.php:208
+msgid "Page Sidebar Area"
+msgstr ""
+
+#: functions.php:210
+msgid "Appears in the page sidebar."
+msgstr ""
+
+#: functions.php:218
+msgid "Bottom Sidebar Area"
+msgstr ""
+
+#: functions.php:220
+msgid "Appears in the bottom of site."
+msgstr ""
+
+#: functions.php:229
+msgid "Off Canvas Manu"
+msgstr ""
+
+#: functions.php:231
+msgid "Shown on Off Canvas Menu"
+msgstr ""
+
+#: functions.php:239
+msgid "Magazine Page Banner Sidebar"
+msgstr ""
+
+#: functions.php:241
+msgid "Appears in the Top of Magazine Layout."
+msgstr ""
+
+#: functions.php:249
+msgid "Magazine Page Right Sidebar"
+msgstr ""
+
+#: functions.php:251
+msgid "Appears in the right side of Magazine Layout."
+msgstr ""
+
+#: functions.php:259
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:261
+msgid "Appears in the shop page"
+msgstr ""
+
+#: functions.php:269 functions.php:342
+msgid "Mega Menu Widget One"
+msgstr ""
+
+#: functions.php:271 functions.php:281 functions.php:291 functions.php:301
+#: functions.php:311
+msgid "Appears in the mega menu while selected from nav menu item"
+msgstr ""
+
+#: functions.php:279 functions.php:343
+msgid "Mega Menu Widget Two"
+msgstr ""
+
+#: functions.php:289 functions.php:344
+msgid "Mega Menu Widget Three"
+msgstr ""
+
+#: functions.php:299 functions.php:345
+msgid "Mega Menu Widget Four"
+msgstr ""
+
+#: functions.php:309 functions.php:346
+msgid "Mega Menu Widget Five"
+msgstr ""
+
+#: functions.php:339
+msgid "Megamenu Sidebar"
+msgstr ""
+
+#: functions.php:341
+msgid "-- Select --"
+msgstr ""
+
+#: functions.php:353
+msgid "Mega Menu Column Class"
+msgstr ""
+
+#: functions.php:485
+msgid "BREAKING NEWS"
+msgstr ""
+
+#: header.php:171
+msgid "Cart"
+msgstr ""
+
+#: inc/extras.php:250 inc/extras.php:268
+msgid "Id"
+msgstr ""
+
+#: inc/extras.php:251 inc/extras.php:270
+msgid "Title"
+msgstr ""
+
+#: inc/helper.php:347
+#, php-format
+msgid "%s minute read"
+msgid_plural "%s minutes read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper.php:348
+#, php-format
+msgid "%s second read"
+msgid_plural "%s seconds read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper.php:384
+msgid "You cannot use it before or after loop or specific post."
+msgstr ""
+
+#: inc/helper.php:384
+#, php-format
+msgid "(This message was added in %s theme version %s.)"
+msgstr ""
+
+#: inc/hippo-navwalker.php:20 inc/template-tags.php:553
+#: visual-composer/templates/home.php:7
+msgid "Home"
+msgstr ""
+
+#: inc/hippo-navwalker.php:21
+msgid "Add Menu"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Next page"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid "Previous page"
+msgstr ""
+
+#: inc/template-tags.php:125
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:176 visual-composer/overrides/latest_post.php:93
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:191
+#, php-format
+msgid "Hits: %d"
+msgstr ""
+
+#: inc/template-tags.php:198
+msgid "Edit Post"
+msgstr ""
+
+#: inc/template-tags.php:554
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:555
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/template-tags.php:556
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:557
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+#: inc/template-tags.php:558
+msgid "Error 404"
+msgstr ""
+
+#: inc/template-tags.php:757
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:784 inc/template-tags.php:787
+#: inc/template-tags.php:790
+#, php-format
+msgid "Archive of: %s"
+msgstr ""
+
+#: inc/template-tags.php:795
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/template-tags.php:799
+#, php-format
+msgid "Search result for: \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:803
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:807
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:811
+#, php-format
+msgid "Posts of: %s"
+msgstr ""
+
+#: inc/template-tags.php:859 inc/template-tags.php:863
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:1054 woocommerce/single-product-reviews.php:66
+msgid "Name"
+msgstr ""
+
+#: inc/template-tags.php:1059 woocommerce/single-product-reviews.php:68
+msgid "Email"
+msgstr ""
+
+#: inc/template-tags.php:1065
+msgid "Website"
+msgstr ""
+
+#: inc/template-tags.php:1070
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: inc/template-tags.php:1076
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:1082
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/template-tags.php:1084
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/template-tags.php:1085
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/template-tags.php:1086
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: inc/template-tags.php:1089
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/template-tags.php:1090 woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/template-tags.php:1091
+msgid "Cancel reply"
+msgstr ""
+
+#: inc/template-tags.php:1092
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/template-tags.php:1167
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:1167
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:1193
+msgid "By"
+msgstr ""
+
+#: inc/template-tags.php:1199
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:1205
+#, php-format
+msgid "%s Reply"
+msgstr ""
+
+#: inc/template-tags.php:1214
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:1246
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:1295
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/theme-options.php:30
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: inc/theme-options.php:31 inc/theme-options.php:90
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:134
+#, php-format
+msgid "%s Theme Documentation"
+msgstr ""
+
+#: inc/theme-options.php:139
+#, php-format
+msgid "%s Theme Support"
+msgstr ""
+
+#: inc/theme-options.php:150
+msgid "General Settings"
+msgstr ""
+
+#: inc/theme-options.php:155
+msgid "Layout Type"
+msgstr ""
+
+#: inc/theme-options.php:156
+msgid "Chose your layout type."
+msgstr ""
+
+#: inc/theme-options.php:164
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme-options.php:165
+msgid "Show or Hide Your website Breadcrumb"
+msgstr ""
+
+#: inc/theme-options.php:174
+msgid "Page Comment"
+msgstr ""
+
+#: inc/theme-options.php:175
+msgid "Enable or Disabled Your website Page Comment."
+msgstr ""
+
+#: inc/theme-options.php:184
+msgid "Active Sticky Menu?"
+msgstr ""
+
+#: inc/theme-options.php:185
+msgid "You can active or deactive sticky menu from here."
+msgstr ""
+
+#: inc/theme-options.php:186 visual-composer/visual-composer.php:146
+#: visual-composer/visual-composer.php:156
+#: visual-composer/visual-composer.php:178
+msgid "Yes"
+msgstr ""
+
+#: inc/theme-options.php:187 visual-composer/visual-composer.php:145
+#: visual-composer/visual-composer.php:155
+msgid "No"
+msgstr ""
+
+#: inc/theme-options.php:194
+msgid "Show Industrix Setup Wizard"
+msgstr ""
+
+#: inc/theme-options.php:195
+msgid "Show or Hide Industrix theme setup wizard"
+msgstr ""
+
+#: inc/theme-options.php:206
+msgid "Header Settings"
+msgstr ""
+
+#: inc/theme-options.php:212
+msgid "Home 3 logo"
+msgstr ""
+
+#: inc/theme-options.php:213
+msgid "Change home 3 style logo dimension: 150px &times; 55px"
+msgstr ""
+
+#: inc/theme-options.php:218
+msgid "Blog Header"
+msgstr ""
+
+#: inc/theme-options.php:219
+msgid "Blog Header Image and breadcrumbs"
+msgstr ""
+
+#: inc/theme-options.php:227
+msgid "Show news ticker?"
+msgstr ""
+
+#: inc/theme-options.php:228
+msgid "Show or Hide News Ticker."
+msgstr ""
+
+#: inc/theme-options.php:238
+msgid "Ticker post limit"
+msgstr ""
+
+#: inc/theme-options.php:239
+msgid "Put the number of post amount that you want to show in news ticker"
+msgstr ""
+
+#: inc/theme-options.php:247
+msgid "News Ticker title"
+msgstr ""
+
+#: inc/theme-options.php:256
+msgid "Offcanvas Settings"
+msgstr ""
+
+#: inc/theme-options.php:262
+msgid "Offcanvas Menu Title"
+msgstr ""
+
+#: inc/theme-options.php:263
+msgid "Change Offcanvas Menu Title"
+msgstr ""
+
+#: inc/theme-options.php:264
+msgid "Sidebar Menu"
+msgstr ""
+
+#: inc/theme-options.php:269
+msgid "Offcanvas menu position"
+msgstr ""
+
+#: inc/theme-options.php:286
+msgid "Offcanvas menu Effect"
+msgstr ""
+
+#: inc/theme-options.php:288
+msgid "Slide in on top"
+msgstr ""
+
+#: inc/theme-options.php:289
+msgid "Reveal"
+msgstr ""
+
+#: inc/theme-options.php:311
+msgid "Preset Settings"
+msgstr ""
+
+#: inc/theme-options.php:319
+msgid "LESS Compiler"
+msgstr ""
+
+#: inc/theme-options.php:320
+msgid "Turn on built-in LESS compiler."
+msgstr ""
+
+#: inc/theme-options.php:321
+msgid ""
+"You should always turned it off when you are on production / live site. But "
+"when you need to change preset / color / typography just turn it on, refresh "
+"your home page and turn it off again."
+msgstr ""
+
+#: inc/theme-options.php:329
+msgid "Compress Less Output"
+msgstr ""
+
+#: inc/theme-options.php:330
+msgid "Compress Less Output for better page load if less compiler is enabled."
+msgstr ""
+
+#: inc/theme-options.php:340
+msgid "Remember Please!"
+msgstr ""
+
+#: inc/theme-options.php:342
+msgid ""
+"If you wish to change preset or color settings, please make sure \"LESS "
+"Compiler\" is enabled. Other wise no css effect will shown."
+msgstr ""
+
+#: inc/theme-options.php:348
+msgid "Theme Preset"
+msgstr ""
+
+#: inc/theme-options.php:349
+msgid "Theme Presets"
+msgstr ""
+
+#: inc/theme-options.php:362
+msgid "Theme Color"
+msgstr ""
+
+#: inc/theme-options.php:363
+msgid "Change theme color"
+msgstr ""
+
+#: inc/theme-options.php:375
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/theme-options.php:376
+msgid "Change body color"
+msgstr ""
+
+#: inc/theme-options.php:388
+msgid "Content Color"
+msgstr ""
+
+#: inc/theme-options.php:389
+msgid "Change content color"
+msgstr ""
+
+#: inc/theme-options.php:401
+msgid "Heading Color"
+msgstr ""
+
+#: inc/theme-options.php:402
+msgid "Change all heading color"
+msgstr ""
+
+#: inc/theme-options.php:414
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme-options.php:415
+msgid "Change Link Color"
+msgstr ""
+
+#: inc/theme-options.php:427
+msgid "Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:428
+msgid "Change Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:447
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-options.php:452
+msgid "Body Typography "
+msgstr ""
+
+#: inc/theme-options.php:461 inc/theme-options.php:480
+msgid ""
+"Typography option with each property can be called individually, but you "
+"must select any backup font family."
+msgstr ""
+
+#: inc/theme-options.php:471
+msgid "Heading Typography "
+msgstr ""
+
+#: inc/theme-options.php:493
+msgid "Header Background"
+msgstr ""
+
+#: inc/theme-options.php:499
+msgid "Service Header Background."
+msgstr ""
+
+#: inc/theme-options.php:500
+msgid "Change Service Header Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:506
+msgid "Project Header Background."
+msgstr ""
+
+#: inc/theme-options.php:507
+msgid "Change Project Header Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:513
+msgid "Team Header Background."
+msgstr ""
+
+#: inc/theme-options.php:514
+msgid "Change Team Header Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:520
+msgid "Blog Background."
+msgstr ""
+
+#: inc/theme-options.php:521
+msgid "Change Blog Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:527
+msgid "Single Blog Background."
+msgstr ""
+
+#: inc/theme-options.php:528
+msgid "Change Blog Details Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:534
+msgid "Page Background."
+msgstr ""
+
+#: inc/theme-options.php:535
+msgid "Change Page Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:541
+msgid "Author Background."
+msgstr ""
+
+#: inc/theme-options.php:542
+msgid "Change Author Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:548
+msgid "Tags Background."
+msgstr ""
+
+#: inc/theme-options.php:549
+msgid "Change Tags Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:555
+msgid "Category Background."
+msgstr ""
+
+#: inc/theme-options.php:556
+msgid "Change Category Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:562
+msgid "Search Background."
+msgstr ""
+
+#: inc/theme-options.php:563
+msgid "Change Search Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:569
+msgid "404 Background."
+msgstr ""
+
+#: inc/theme-options.php:570
+msgid "Change 404 Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:576
+msgid "Archive Background."
+msgstr ""
+
+#: inc/theme-options.php:577
+msgid "Change Archive Title Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:585
+msgid "Social Settings"
+msgstr ""
+
+#: inc/theme-options.php:591
+msgid "Show Social Section ?"
+msgstr ""
+
+#: inc/theme-options.php:592
+msgid "Show or Hide Social Section in Navbar."
+msgstr ""
+
+#: inc/theme-options.php:600 inc/theme-options.php:890
+msgid "Show RSS Link"
+msgstr ""
+
+#: inc/theme-options.php:601 inc/theme-options.php:891
+msgid "Show or Hide RSS Link."
+msgstr ""
+
+#: inc/theme-options.php:602 inc/theme-options.php:822
+#: inc/theme-options.php:830 inc/theme-options.php:892
+msgid "Show"
+msgstr ""
+
+#: inc/theme-options.php:603 inc/theme-options.php:823
+#: inc/theme-options.php:831 inc/theme-options.php:893
+msgid "Hide"
+msgstr ""
+
+#: inc/theme-options.php:611 inc/theme-options.php:901
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/theme-options.php:612 inc/theme-options.php:902
+msgid ""
+"Insert your custom link to show the Facebook icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:620 inc/theme-options.php:910
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/theme-options.php:621 inc/theme-options.php:911
+msgid ""
+"Insert your custom link to show the Twitter icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:629 inc/theme-options.php:919
+msgid "Google Plus Link"
+msgstr ""
+
+#: inc/theme-options.php:630 inc/theme-options.php:920
+msgid ""
+"Insert your custom link to show the Google Plus icon. Leave blank to hide "
+"icon."
+msgstr ""
+
+#: inc/theme-options.php:638 inc/theme-options.php:928
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/theme-options.php:639 inc/theme-options.php:929
+msgid ""
+"Insert your custom link to show the Youtube icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:647 inc/theme-options.php:937
+msgid "Skype Link"
+msgstr ""
+
+#: inc/theme-options.php:648 inc/theme-options.php:938
+msgid ""
+"Insert your custom link to show the Skype icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:656 inc/theme-options.php:946
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/theme-options.php:657 inc/theme-options.php:947
+msgid ""
+"Insert your custom link to show the Pinterest icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:665 inc/theme-options.php:955
+msgid "Flickr Link"
+msgstr ""
+
+#: inc/theme-options.php:666 inc/theme-options.php:956
+msgid ""
+"Insert your custom link to show the Flickr icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:674 inc/theme-options.php:964
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/theme-options.php:675 inc/theme-options.php:965
+msgid ""
+"Insert your custom link to show the Linkedin icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:683 inc/theme-options.php:973
+msgid "Vimeo Link"
+msgstr ""
+
+#: inc/theme-options.php:684 inc/theme-options.php:974
+msgid ""
+"Insert your custom link to show the Vimeo icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:692 inc/theme-options.php:982
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/theme-options.php:693 inc/theme-options.php:983
+msgid ""
+"Insert your custom link to show the Instagram icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:701 inc/theme-options.php:991
+msgid "Dribbble Link"
+msgstr ""
+
+#: inc/theme-options.php:702 inc/theme-options.php:992
+msgid ""
+"Insert your custom link to show the Dribbble icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:710 inc/theme-options.php:1000
+msgid "Tumblr Link"
+msgstr ""
+
+#: inc/theme-options.php:711 inc/theme-options.php:1001
+msgid ""
+"Insert your custom link to show the Tumblr icon. Leave blank to hide icon."
+msgstr ""
+
+#: inc/theme-options.php:721
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/theme-options.php:727
+msgid "Blog Subtitle"
+msgstr ""
+
+#: inc/theme-options.php:728
+msgid "Write blog sub title here."
+msgstr ""
+
+#: inc/theme-options.php:735
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/theme-options.php:736
+msgid ""
+"Blog layout content and sidebar alignment. Choose from Fullwidth, Left "
+"sidebar or Right sidebar layout."
+msgstr ""
+
+#: inc/theme-options.php:757
+msgid "Blog Pagination or Navigation"
+msgstr ""
+
+#: inc/theme-options.php:758
+msgid "Blog pagination style, posts pagination or newer / older posts"
+msgstr ""
+
+#: inc/theme-options.php:759
+msgid "Pagination"
+msgstr ""
+
+#: inc/theme-options.php:760
+msgid "Navigation"
+msgstr ""
+
+#: inc/theme-options.php:769
+msgid "Page Settings"
+msgstr ""
+
+#: inc/theme-options.php:775
+msgid "Page Layout"
+msgstr ""
+
+#: inc/theme-options.php:776
+msgid ""
+"Page layout content and sidebar alignment. Choose from Fullwidth, Left "
+"sidebar or Right sidebar layout."
+msgstr ""
+
+#: inc/theme-options.php:801
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/theme-options.php:806
+msgid "Shop Subtitle"
+msgstr ""
+
+#: inc/theme-options.php:807
+msgid "Write shop sub title here."
+msgstr ""
+
+#: inc/theme-options.php:814
+msgid "Shop Header Background."
+msgstr ""
+
+#: inc/theme-options.php:815
+msgid "Change Shop Header Background. Dimension: 1400px &times; 200px"
+msgstr ""
+
+#: inc/theme-options.php:820
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/theme-options.php:821
+msgid "Show or Hide cart icon on header"
+msgstr ""
+
+#: inc/theme-options.php:829
+msgid "Show Minicart Title?"
+msgstr ""
+
+#: inc/theme-options.php:838
+msgid "Mini Cart Title"
+msgstr ""
+
+#: inc/theme-options.php:843
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/theme-options.php:844
+msgid ""
+"Shop layout content and sidebar alignment. Choose from Full width, Left "
+"sidebar or Right sidebar layout."
+msgstr ""
+
+#: inc/theme-options.php:867
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/theme-options.php:872
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/theme-options.php:873
+msgid "Write footer copyright text here."
+msgstr ""
+
+#: inc/theme-options.php:881
+msgid "Show Footer Social Section"
+msgstr ""
+
+#: inc/theme-options.php:882
+msgid "Show or Hide Social Section in footer."
+msgstr ""
+
+#: inc/theme-options.php:1008
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/theme-options.php:1009
+msgid "Enable or Disabled Your website Scroll to Top."
+msgstr ""
+
+#: index.php:43
+msgid "Website URL: "
+msgstr ""
+
+#: index.php:46
+msgid "Email: "
+msgstr ""
+
+#: post-contents/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: post-contents/content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: post-contents/content-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: post-contents/content-none.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: post-contents/content-page.php:5 post-contents/content-single.php:38
+#: post-contents/content.php:54 visual-composer/overrides/project.php:171
+msgid "Read More"
+msgstr ""
+
+#: post-contents/content-page.php:8
+msgid "Pages:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:306
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:311
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:316
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:321
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:326
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:331
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:351
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:356
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:361
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:367
+#: required-plugins/class-tgm-plugin-activation.php:2996
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:368
+#: required-plugins/class-tgm-plugin-activation.php:2823
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:491
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:492
+msgid "Update Required"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:606
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:797
+#: required-plugins/class-tgm-plugin-activation.php:3405
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:905
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:905
+#: required-plugins/class-tgm-plugin-activation.php:910
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:910
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1091
+#: required-plugins/class-tgm-plugin-activation.php:2819
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1876
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2148
+msgid "Required"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2151
+msgid "Recommended"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2168
+msgid "WordPress Repository"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2171
+msgid "External Source"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2174
+msgid "Pre-Packaged"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2192
+msgid "Not Installed"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2196
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2198
+msgid "Active"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2204
+msgid "Required Update not Available"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2207
+msgid "Requires Update"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2210
+msgid "Update recommended"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2218
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2264
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2267
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2270
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2273
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2359
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2367
+msgid "Installed version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2375
+msgid "Minimum required version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2387
+msgid "Available version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2410
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2424
+msgid "Plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2425
+msgid "Source"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2426
+msgid "Type"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2430
+msgid "Version"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2431
+#: setup-wizard/index.php:648 visual-composer/overrides/support_tables.php:29
+msgid "Status"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2480
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2484
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2489
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2561
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2594
+msgid "Install"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2600
+msgid "Update"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2603
+msgid "Activate"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2634
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2636
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2672
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2674
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2779
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2805
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2995
+msgid "Plugin activation failed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3329
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3331
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3332
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3336
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3337
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3337
+#: required-plugins/class-tgm-plugin-activation.php:3343
+msgid "Show Details"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3337
+#: required-plugins/class-tgm-plugin-activation.php:3343
+msgid "Hide Details"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3338
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3339
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3342
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3343
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3344
+msgid "All installations have been completed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3345
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: setup-wizard/index.php:62
+#, php-format
+msgid ""
+"<strong>Thank you for choosing the %1$s theme</strong> - You're almost ready "
+"to configure your site with %1$s theme :)"
+msgstr ""
+
+#: setup-wizard/index.php:65
+#, php-format
+msgid "Run the %s Theme Setup Wizard"
+msgstr ""
+
+#: setup-wizard/index.php:100 setup-wizard/index.php:101
+#, php-format
+msgid "%s Setup Wizard"
+msgstr ""
+
+#: setup-wizard/index.php:123
+msgid "Introduction"
+msgstr ""
+
+#: setup-wizard/index.php:131
+msgid "Plugins"
+msgstr ""
+
+#: setup-wizard/index.php:138
+msgid "Content"
+msgstr ""
+
+#: setup-wizard/index.php:143
+msgid "Logo"
+msgstr ""
+
+#: setup-wizard/index.php:149
+msgid "Customize"
+msgstr ""
+
+#: setup-wizard/index.php:154
+msgid "Support"
+msgstr ""
+
+#: setup-wizard/index.php:159
+msgid "Ready!"
+msgstr ""
+
+#: setup-wizard/index.php:178
+msgid "...verifying"
+msgstr ""
+
+#: setup-wizard/index.php:218
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: setup-wizard/index.php:283
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: setup-wizard/index.php:356
+#, php-format
+msgid "Welcome to the setup wizard for %s"
+msgstr ""
+
+#: setup-wizard/index.php:357
+#, php-format
+msgid ""
+"Thank you for choosing the %s theme from ThemeHippo. This quick setup wizard "
+"will help you configure your new website. This wizard will install the "
+"required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. <br/><strong>It should only take 5 minutes."
+"</strong>"
+msgstr ""
+
+#: setup-wizard/index.php:358
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: setup-wizard/index.php:361
+msgid "Let's Go!"
+msgstr ""
+
+#: setup-wizard/index.php:363
+msgid "Not right now"
+msgstr ""
+
+#: setup-wizard/index.php:487
+msgid "Required Plugins"
+msgstr ""
+
+#: setup-wizard/index.php:494
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed:"
+msgstr ""
+
+#: setup-wizard/index.php:520
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: setup-wizard/index.php:523
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: setup-wizard/index.php:528 setup-wizard/index.php:676
+#: setup-wizard/index.php:855 setup-wizard/index.php:939
+msgid "Continue"
+msgstr ""
+
+#: setup-wizard/index.php:530 setup-wizard/index.php:678
+#: setup-wizard/index.php:857
+msgid "Skip this step"
+msgstr ""
+
+#: setup-wizard/index.php:572
+msgid "No Slug Found"
+msgstr ""
+
+#: setup-wizard/index.php:588
+msgid "Activating Plugin"
+msgstr ""
+
+#: setup-wizard/index.php:603
+msgid "Updating Plugin"
+msgstr ""
+
+#: setup-wizard/index.php:618
+msgid "Installing Plugin"
+msgstr ""
+
+#: setup-wizard/index.php:628
+msgid "Success"
+msgstr ""
+
+#: setup-wizard/index.php:639
+msgid "Demo Contents"
+msgstr ""
+
+#: setup-wizard/index.php:641
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue."
+msgstr ""
+
+#: setup-wizard/index.php:646
+msgid "Item"
+msgstr ""
+
+#: setup-wizard/index.php:647
+msgid "Description"
+msgstr ""
+
+#: setup-wizard/index.php:671
+msgid ""
+"Once inserted, this content can be managed from the WordPress admin "
+"dashboard."
+msgstr ""
+
+#: setup-wizard/index.php:690
+msgid "Contents"
+msgstr ""
+
+#: setup-wizard/index.php:691
+msgid "This will create all demo data as seen in the demo."
+msgstr ""
+
+#: setup-wizard/index.php:692 setup-wizard/index.php:701
+#: setup-wizard/index.php:710 setup-wizard/index.php:719
+#: setup-wizard/index.php:728 setup-wizard/index.php:738
+msgid "Pending."
+msgstr ""
+
+#: setup-wizard/index.php:693
+msgid "Installing contents."
+msgstr ""
+
+#: setup-wizard/index.php:694 setup-wizard/index.php:703
+#: setup-wizard/index.php:712 setup-wizard/index.php:721
+#: setup-wizard/index.php:730 setup-wizard/index.php:740
+msgid "Success."
+msgstr ""
+
+#: setup-wizard/index.php:699
+msgid "Menu"
+msgstr ""
+
+#: setup-wizard/index.php:700
+msgid "Insert default menu as seen in the demo."
+msgstr ""
+
+#: setup-wizard/index.php:702
+msgid "Installing Default Menu."
+msgstr ""
+
+#: setup-wizard/index.php:708
+msgid "Widgets"
+msgstr ""
+
+#: setup-wizard/index.php:709
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: setup-wizard/index.php:711
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: setup-wizard/index.php:717
+msgid "Options"
+msgstr ""
+
+#: setup-wizard/index.php:718
+msgid "Configure Default Theme Options."
+msgstr ""
+
+#: setup-wizard/index.php:720
+msgid "Installing default theme options."
+msgstr ""
+
+#: setup-wizard/index.php:726
+msgid "Settings"
+msgstr ""
+
+#: setup-wizard/index.php:727
+msgid "Configure Reading Settings."
+msgstr ""
+
+#: setup-wizard/index.php:729
+msgid "Installing Default Reading Settings."
+msgstr ""
+
+#: setup-wizard/index.php:736
+msgid "Slider"
+msgstr ""
+
+#: setup-wizard/index.php:737
+msgid "Load slider Data."
+msgstr ""
+
+#: setup-wizard/index.php:739
+msgid "Importing revolution slider slide."
+msgstr ""
+
+#: setup-wizard/index.php:756
+msgid "No content Found"
+msgstr ""
+
+#: setup-wizard/index.php:792
+msgid "Error"
+msgstr ""
+
+#: setup-wizard/index.php:806
+msgid "Logo &amp; Design"
+msgstr ""
+
+#: setup-wizard/index.php:808
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG. The logo can be changed at any time from the "
+"<strong>Appearance &RightArrow; Customize &RightArrow; Site Identity "
+"&RightArrow; Logo."
+msgstr ""
+
+#: setup-wizard/index.php:821
+msgid "Upload New Logo"
+msgstr ""
+
+#: setup-wizard/index.php:907
+#, php-format
+msgid ""
+"Most changes to the website can be made through the <strong>%1$s Options</"
+"strong> menu from the WordPress\n"
+"\t\t\t\tadmin. These include:"
+msgstr ""
+
+#: setup-wizard/index.php:972
+msgid "Agree and Continue"
+msgstr ""
+
+#: setup-wizard/index.php:999
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: setup-wizard/index.php:1009
+msgid "Next Steps"
+msgstr ""
+
+#: setup-wizard/index.php:1013
+msgid "View your new website!"
+msgstr ""
+
+#: setup-wizard/index.php:1025
+msgid "More Resources"
+msgstr ""
+
+#: setup-wizard/index.php:1032
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: template-parts/modal-login.php:11
+msgid "Login to your account"
+msgstr ""
+
+#: template-parts/modal-login.php:16
+msgid "Don't have an account yet? "
+msgstr ""
+
+#: template-parts/modal-login.php:19
+msgid "Register now!"
+msgstr ""
+
+#: template-parts/modal-login.php:29
+msgid "Forgot your password?"
+msgstr ""
+
+#: template-parts/modal-login.php:54
+msgid "Username *"
+msgstr ""
+
+#: template-parts/modal-login.php:65
+msgid "Email *"
+msgstr ""
+
+#: template-parts/modal-login.php:73
+msgid "Register"
+msgstr ""
+
+#: template-parts/post-navigation.php:19
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/post-navigation.php:36
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/post-password-form.php:12
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: template-parts/post-password-form.php:14
+msgid "Password:"
+msgstr ""
+
+#: template-parts/post-password-form.php:16
+#: woocommerce/single-product-reviews.php:71
+msgid "Submit"
+msgstr ""
+
+#: template-parts/posts-navigation.php:9
+msgid "<i class=\"fa fa-long-arrow-left\"></i> Older Entries"
+msgstr ""
+
+#: template-parts/posts-navigation.php:19
+msgid "Newer Entries <i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: visual-composer/overrides/featured_post.php:47
+#: visual-composer/overrides/latest_post.php:107
+msgid "No post found."
+msgstr ""
+
+#: visual-composer/overrides/hippo_accordion.php:59
+#: visual-composer/overrides/project.php:96
+#: visual-composer/overrides/project.php:124
+#: visual-composer/overrides/service_grid.php:63
+#: visual-composer/overrides/single_post.php:60
+msgid "More"
+msgstr ""
+
+#: visual-composer/overrides/latest_post.php:67
+msgid "More "
+msgstr ""
+
+#: visual-composer/overrides/project.php:39
+#: visual-composer/overrides/vc_posts_grid.php:135
+msgid "All"
+msgstr ""
+
+#: visual-composer/overrides/project.php:186
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: visual-composer/overrides/service_color_box.php:65
+msgid "DETAILS"
+msgstr ""
+
+#: visual-composer/overrides/service_color_box.php:72
+msgid "Service post not found !"
+msgstr ""
+
+#: visual-composer/overrides/service_grid.php:76
+msgid "No Service found."
+msgstr ""
+
+#: visual-composer/overrides/support_tables.php:20
+msgid "Query type"
+msgstr ""
+
+#: visual-composer/overrides/support_tables.php:23
+msgid "Details"
+msgstr ""
+
+#: visual-composer/overrides/support_tables.php:26
+msgid "Support level"
+msgstr ""
+
+#: visual-composer/overrides/team_member.php:134
+msgid "No Team found."
+msgstr ""
+
+#: visual-composer/overrides/vc_cta_button.php:9
+#: visual-composer/overrides/vc_cta_button2.php:25
+msgid "Text on the button"
+msgstr ""
+
+#: visual-composer/overrides/vc_posts_grid.php:169
+msgid "Nothing found."
+msgstr ""
+
+#: visual-composer/templates/about-us.php:7
+msgid "About us"
+msgstr ""
+
+#: visual-composer/templates/contact.php:7
+msgid "Contact"
+msgstr ""
+
+#: visual-composer/templates/faq-style1.php:7
+msgid "FAQ Style One"
+msgstr ""
+
+#: visual-composer/templates/faq-style2.php:7
+msgid "FAQ Style Two"
+msgstr ""
+
+#: visual-composer/templates/home2.php:7
+msgid "Home 2"
+msgstr ""
+
+#: visual-composer/templates/home3.php:7
+msgid "Home 3"
+msgstr ""
+
+#: visual-composer/templates/magazine.php:7
+msgid "Magazine"
+msgstr ""
+
+#: visual-composer/templates/page-left-sidebar.php:7
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: visual-composer/templates/page-no-sidebar.php:7
+msgid "Page No Sidebar"
+msgstr ""
+
+#: visual-composer/templates/page-right-sidebar.php:7
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: visual-composer/templates/pricing-table.php:7
+msgid "Pricing Table"
+msgstr ""
+
+#: visual-composer/templates/project-2-column.php:7
+msgid "Project 2 column"
+msgstr ""
+
+#: visual-composer/templates/project-3-column .php:7
+msgid "Project 3 column"
+msgstr ""
+
+#: visual-composer/templates/project-4-column.php:7
+msgid "Project 4 column"
+msgstr ""
+
+#: visual-composer/templates/service-2-column.php:7
+#: visual-composer/templates/service-3-column.php:7
+msgid "Service 3 Column"
+msgstr ""
+
+#: visual-composer/templates/service-4-column.php:7
+msgid "Service 4 Column"
+msgstr ""
+
+#: visual-composer/templates/support-policy-1.php:7
+msgid "Support Policy 1"
+msgstr ""
+
+#: visual-composer/templates/support-policy-2.php:7
+msgid "Support Policy 2"
+msgstr ""
+
+#: visual-composer/visual-composer.php:119
+msgid "Remove column gutter"
+msgstr ""
+
+#: visual-composer/visual-composer.php:121
+msgid "Would you like to remove column gutter?"
+msgstr ""
+
+#: visual-composer/visual-composer.php:123
+#: visual-composer/visual-composer.php:134
+msgid "--Select--"
+msgstr ""
+
+#: visual-composer/visual-composer.php:124
+msgid "Remove left gutter"
+msgstr ""
+
+#: visual-composer/visual-composer.php:125
+msgid "Remove right gutter"
+msgstr ""
+
+#: visual-composer/visual-composer.php:130
+msgid "Add column gutter"
+msgstr ""
+
+#: visual-composer/visual-composer.php:132
+msgid "Add column gutter for mobile device to fixing responsiveness"
+msgstr ""
+
+#: visual-composer/visual-composer.php:135
+msgid "Add left gutter"
+msgstr ""
+
+#: visual-composer/visual-composer.php:136
+msgid "Add right gutter"
+msgstr ""
+
+#: visual-composer/visual-composer.php:141
+msgid "Box Shadow"
+msgstr ""
+
+#: visual-composer/visual-composer.php:143
+msgid "Would you like to apply box shadow?"
+msgstr ""
+
+#: visual-composer/visual-composer.php:151
+msgid "Box Shadow padding"
+msgstr ""
+
+#: visual-composer/visual-composer.php:153
+msgid "Would you like to apply box shadow padding?"
+msgstr ""
+
+#: visual-composer/visual-composer.php:162
+msgid "Column Height"
+msgstr ""
+
+#: visual-composer/visual-composer.php:164
+msgid "Set custom minimum height in pixel if needed, e.g: 470px"
+msgstr ""
+
+#: visual-composer/visual-composer.php:168
+msgid "Custom column class?"
+msgstr ""
+
+#: visual-composer/visual-composer.php:170
+msgid "Add class on column like: col-ms-6, hidden-ms"
+msgstr ""
+
+#: visual-composer/visual-composer.php:171
+msgid "Custom column"
+msgstr ""
+
+#: visual-composer/visual-composer.php:175
+msgid "Add Clear fix after this column?"
+msgstr ""
+
+#: visual-composer/visual-composer.php:177
+msgid "If checked, a div appended after this column with clearfix class"
+msgstr ""
+
+#: visual-composer/visual-composer.php:179
+#: visual-composer/visual-composer.php:193
+msgid "Clear Columns"
+msgstr ""
+
+#: visual-composer/visual-composer.php:183
+msgid "Clear fix visibility class(es):"
+msgstr ""
+
+#: visual-composer/visual-composer.php:185
+msgid ""
+"Clearfix div activated on this class like: <code>visible-sm-block</code> or "
+"<code>visible-xs-inline</code>. <br>Available <code>visible-*-block</code> "
+"<code>visible-*-inline-block</code> <code>visible-*-inline</code>). Use "
+"multiple with space."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27 woocommerce/cart/cart.php:66
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:90
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:107
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:50 woocommerce/cart/mini-cart.php:40
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:63
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:76
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:77
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:28
+msgid "<i class=\"fa fa-angle-double-left\"></i> Previous"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:29
+msgid "Next <i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: woocommerce/product-searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:3
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/related.php:45
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:50
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/industrix-multipurpose-wordpress-theme/8786908"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Industrix – is Creative Multi-purpose WordPress template. It developed with "
+"great attention to typography, usability & user-experience. Industirx is the "
+"greatest way to present your affort at the highest level. It is based on "
+"popular Twitter Bootstrap 3 framework."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeHippo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themehippo.com/"
+msgstr ""
