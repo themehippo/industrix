@@ -1,14 +1,26 @@
+.idea
+/*.php
+
+
+*.source.map
+*.zip
+.htaccess
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 *.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
+bs-config.js
+*.xml
+*.dat
+*.sql
+
+
+wp-admin
+wp-includes
 
 /.htaccess
 /license.txt
@@ -16,3 +28,15 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+
+## Directories
+
+wp-content/cache
+wp-content/languages
+wp-content/up*
+wp-content/wp-*
+wp-content/*.*
+wp-content/plugins/*
+wp-content/themes/*.*
+wp-content/themes/twenty*
+wp-content/themes/*/css-compiled/*
